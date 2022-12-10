@@ -6,7 +6,7 @@
     "start": "node ./ru"
   },
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "moment": "^2.24.0",
     "nightmare": "^3.0.1",
     "request": "^2.88.0",
